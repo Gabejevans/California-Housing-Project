@@ -1,1 +1,3 @@
-# California-Housing-Project
+### California-Housing-Project
+
+Data analysis project using neural networks to investigate the importance of feature engineering in creating machine learning models. Uses SK Learn's California Housing dataset with features engineered from locational coordinate data, including an out of fold average nearest neighbours price feature, resulting in halving mean absolute percentage error when compared to an original feature-bassline model. Feature importance across data locations was also investigated. The final model was then compared to a HistGradientBoosting model and ensembled to further reduce mean absolute error. 
